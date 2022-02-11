@@ -1,0 +1,25 @@
+idprato,nome,descricao,idcategoriaPrato
+0,INEXISTENTE,,NULL
+1,"Carbonara tradicional","Carbonara, spaghetti alla carbonara ou pasta ",1
+2,"Favas à portuguesa","Como o nome indica, o prato é confeccionado c",1
+3,"Arroz de pato fingido","Um arroz de pato é um clássico da grastonomia",1
+4,Lasanha,"Lasanha (lasagne em italiano) é tanto um tipo",1
+5,"Ensopado de borrego","Prato preparado constituído por carne de borr",1
+6,"Massada de tamboril","Tamboril, (na Galiza) é o nome vulgar dos pei",2
+7,"Tiras de choco à setubalense com arroz de coe","O Choco Frito é um prato bastante apreciado e",2
+8,"Empadão de atum","Este empadão de atum é ideal para preparar co",2
+9,"Bacalhau com natas","O bacalhau com natas é uma receita clássica d",2
+10,"Lulas cheias com batata cozida","Num tacho, leve ao lume as rodelas de chouriç",2
+11,"Arroz de cogumelos com legumes no forno","Leve ao lume um tacho com a manteiga e a cebo",3
+12,"Bifes de tofu no forno com batata assada e mo","É uma refeição bastante nutritiva e reconfort",3
+13,"Bolonhesa de soja","A soja adquire muito bem os sabores dos tempe",3
+14,"Caril de lentilhas com arroz","As lentilhas são leguminosas muito nutritivas",3
+15,"Empadão vegan","Comida reconfortante pode ser saudável. Este ",3
+16,"Tosta Mista","Temos uma deliciosa tosta mista, claro combin",5
+17,Torrada,"É o pão levado ao forno ou torradeira para le",5
+18,"Croissant Misto","Pão croissant com queijo e fiambre",5
+19,"Pão de centeio misto","Pão de centeio com queijo e fiambre",5
+20,"Folhado Misto","Folhado de massa folhada com queijo e fiambre",5
+21,"Pão com chouriço","Pão com chouriço e manteiga",5
+22,Café,"Café expresso servido em chavena pequena",6
+23,"Arroz e Feijão","Arroz e feijão normal",3
